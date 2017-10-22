@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas2PenampilKodeSumberWebsite</string>
+    <string-array name="Spinner">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
